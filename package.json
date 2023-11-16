@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Learning Node.js, Express and Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AureliaRobu/natours.git"
+  },
+  "author": "Aurelia Robu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AureliaRobu/natours/issues"
+  },
+  "homepage": "https://github.com/AureliaRobu/natours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
